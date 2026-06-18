@@ -1,0 +1,9 @@
+**Abstract (paste inside Word file):**
+
+> The AI Public Health Chatbot for Disease Awareness is designed to provide users with
+ basic health guidance through an interactive chat-based system. The chatbot collects symptoms
+  from users and predicts possible health conditions using Machine Learning models for tabular data,
+   Deep Learning CNN models for medical images, and Soft Computing techniques for handling uncertainty in diseases such as asthma.
+    A closed-domain language model is used to generate user-friendly explanations while ensuring medical safety. 
+    The system aims to improve public health awareness, enable early risk identification, and reduce unnecessary hospital visits.
+     This solution is lightweight, cost-effective, and suitable for real-world deployment.

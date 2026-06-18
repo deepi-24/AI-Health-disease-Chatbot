@@ -1,0 +1,8 @@
+**Methodology (simple and clear):**
+
+> The project follows a modular methodology. Initially, health-related datasets are collected and cleaned.
+ Machine Learning models are trained on structured datasets and saved as pickle files. 
+ Deep Learning CNN models are trained using image datasets and saved as H5 files. 
+ Soft Computing is applied using fuzzy logic rules to handle uncertainty in asthma severity prediction. 
+ A chatbot layer processes user input and routes it to the appropriate model. A closed-domain LLM generates simple explanations. 
+ Finally, the system is integrated using a Streamlit web interface for user interaction.

@@ -1,0 +1,11 @@
+.venv/
+health_env/
+__pycache__/
+
+dl_models/
+ml_models/
+
+*.h5
+*.keras
+*.pkl
+dataset/
